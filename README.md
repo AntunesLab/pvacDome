@@ -47,10 +47,10 @@ Install pVACtools in your environment following the instructions on: https://pva
 After all the installations, download the pVACDome.ipynb and open Jupyter Notebook
 <pre>jupyter notebook</pre>
 
----
 
 Navigate to the folder with your pVACDome.ipynb file and open it. In your pVACDome.ipynb file, update the paths to match your files and run the notebook. 
 
+---
 ***It takes time to run, so enjoy the moment to grab some coffee!***
 
 
