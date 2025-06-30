@@ -1,8 +1,6 @@
-# pvacDome
 <img src="https://dinlerantunes.com/assets/images/lab-logo.png" height="200">
 
-
-# Welcome to CrossDome on Jupyter!
+# Welcome to pvacDome on Jupyter!
 
 ---
 
@@ -18,6 +16,7 @@ Fonseca AF, Antunes DA. CrossDome: an interactive R package to predict cross-rea
 **Acknowledgments**
 The Jupyter Notebook was created by the Antunes lab members: Martiela Freitas and Pamella Borges.
 
+---
 
 
 Implementation of pVACtools and CrossDome in an R notebook.
