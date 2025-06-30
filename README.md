@@ -1,4 +1,25 @@
 # pvacDome
+<img src="https://dinlerantunes.com/assets/images/lab-logo.png" height="200">
+
+
+# Welcome to CrossDome on Jupyter!
+
+---
+
+The complete CrossDome source and documentation are available at https://github.com/AntunesLab/crossdome
+
+---
+
+***If you use crossdome in published research, please cite:***
+Fonseca AF, Antunes DA. CrossDome: an interactive R package to predict cross-reactivity risk using immunopeptidomics databases. Front Immunol. 2023;14:1142573. Published 2023 Jun 12. doi:10.3389/fimmu.2023.1142573
+
+---
+
+**Acknowledgments**
+The Jupyter Notebook was created by the Antunes lab members: Martiela Freitas and Pamella Borges.
+
+
+
 Implementation of pVACtools and CrossDome in an R notebook.
 
 Install Jupyter Notebook: https://jupyter.org/install
