@@ -1,5 +1,5 @@
 # pvacDome
-Implementation of PVActools and CrossDome in an R notebook.
+Implementation of pVACtools and CrossDome in an R notebook.
 
 Install Jupyter Notebook: https://jupyter.org/install
 <pre> pip install notebook </pre>
