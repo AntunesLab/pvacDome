@@ -1,7 +1,7 @@
 <img src="https://dinlerantunes.com/assets/images/lab-logo.png" height="200">
 
-# Welcome to pvacDome on Jupyter!
-
+# Welcome to pvacDome on Jupyter! 
+# A pipeline to run pVACtools and CrossDome.
 ---
 
 The complete CrossDome source and documentation are available at https://github.com/AntunesLab/crossdome
