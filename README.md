@@ -9,12 +9,12 @@ If you don't have R installed on your computer, please follow the instructions t
 After you have installed R, please open R in your terminal and install the IRkernel:
 
 <pre> install.packages('IRkernel')
-  IRkernel::installspec(user = FALSE) </pre>
+IRkernel::installspec(user = FALSE) </pre>
 
 Create a conda environment for pVACtools: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 
-<pre> conda create --name pvactools
+<pre>conda create --name pvactools
 conda activate pvactools
 conda install ipykernel  </pre>
 
